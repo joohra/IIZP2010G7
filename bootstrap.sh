@@ -19,7 +19,7 @@ apt-get install -y mongodb-server redis-server
 apt-get install -y apache2
 apt-get install -y php5 libapache2-mod-php5
 
-apt-get install php5-dev php5-cli php-pear
+apt-get install -y php5-dev php5-cli php-pear
 pecl install mongo
 
 echo 'extension=mongo.so' >> /etc/php5/apache2/php.ini
