@@ -3,7 +3,6 @@
 <?php include '../../../mongo/functions.php';?>
 <div data-role="page" data-theme="b" id="userManagement">
 <body>
-
 <div data-role="header" data-theme="b" id="navtop">
     <h1>Admin Panel</h1>
      <a href="logout.php" class="ui-btn ui-btn-inline ui-mini ui-corner-all ui-btn-icon-right ui-icon-action">Logout</a>
