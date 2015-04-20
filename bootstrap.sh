@@ -31,4 +31,4 @@ echo 'extension=mongo.so' >> /etc/php5/apache2/php.ini
 gem install sass
 npm install -g gulp bower
 
-ln -s /tmp /var/www/html/mongo/tmp
+ln -s /tmp /var/www/html/tmp
